@@ -1,4 +1,4 @@
-import { same } from '../util';
+import same from './same';
 
 export default (getters, deriver = x => x) => {
 	if (!Array.isArray(getters)) {

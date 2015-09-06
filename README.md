@@ -1,4 +1,4 @@
-# reducer
+# fluxette-react
 
 Official React bindings for [fluxette](https://github.com/edge/fluxette).
 
