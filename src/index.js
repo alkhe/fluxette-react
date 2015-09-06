@@ -1,3 +1,5 @@
-export * as Context from './context';
-export * as connect from './connect';
-export * as select from './select';
+import Context from './context';
+import connect from './connect';
+import select from './select';
+
+export { Context, connect, select }
