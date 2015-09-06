@@ -1,6 +1,6 @@
 {
   "name": "fluxette-react",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React bindings for fluxette",
   "main": "index.js",
   "scripts": {
