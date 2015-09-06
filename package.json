@@ -1,0 +1,31 @@
+{
+  "name": "fluxette-react",
+  "version": "0.0.1",
+  "description": "React bindings for fluxette",
+  "main": "index.js",
+  "scripts": {
+    "test": ":"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edge/fluxette-react.git"
+  },
+  "keywords": [
+    "react",
+    "flux",
+    "fluxette",
+    "bindings"
+  ],
+  "author": "synchronous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edge/fluxette-react/issues"
+  },
+  "homepage": "https://github.com/edge/fluxette-react#readme",
+  "devDependencies": {
+    "babel-core": "^5.8.23",
+    "fluxette": "^0.18.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1"
+  }
+}
