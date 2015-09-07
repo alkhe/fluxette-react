@@ -24,7 +24,6 @@
   "homepage": "https://github.com/edge/fluxette-react#readme",
   "devDependencies": {
     "babel-core": "^5.8.23",
-    "fluxette": "^0.18.0",
     "gulp": "^3.9.0",
     "gulp-babel": "^5.2.1"
   }
